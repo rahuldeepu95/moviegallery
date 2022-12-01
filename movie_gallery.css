@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&family=Dancing+Script:wght@600&family=Merriweather&family=Montserrat:wght@300;400;900&family=PT+Serif&family=Play:wght@700&family=Rubik+Distressed&family=Rubik+Microbe&family=Ubuntu&display=swap');
+.col {
+
+    background-color: #EFF5F5;
+    height: 600px;
+    width: 18%;
+    border: 2px #65647C solid;
+    position:absolute;
+    text-align: center;
+   
+}
+.col-1{
+    left: 350px; 
+    
+     
+}
+.col-2 {
+    left:660px;
+   
+}
+.col-3 {
+    left: 970px;
+    ;
+}
+.col-4 {
+    left: 1280px;
+    
+}
+.col-5 {
+    left: 40px;
+}
+
+h1 {
+    text-align: end ;
+    color: #D8D8D8;
+    font-size: 50px;
+    margin-right: 80px;
+    font-family: 'Play', sans-serif;
+}
+img {
+    height: 200px;
+    width: 60%;
+    margin-top: 20px;
+}
+.a1 {
+    background-color: #3A8891;
+    border: 2px #65647C solid ;
+}
+body {
+    background-image: url("./images/moviebg.jpg");
+}
+h3 {
+    color: #182747;
+}
